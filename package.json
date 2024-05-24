@@ -1,0 +1,19 @@
+{
+  "name": "addmulyiply",
+  "version": "0.0.1",
+  "description": "addmultipy",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "patrick",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cor": "^0.0.0",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7",
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.3"
+  }
+}
